@@ -2,7 +2,7 @@ TP 0 PRESENTACIÓN
 
 Alumno: Santiago Agustín Giménez
 
-<img width="900" height="1600" alt="IMG-20260304-WA0030" src="https://github.com/user-attachments/assets/962aef40-2b31-409c-b700-a36f06302b2d" />
+<img width="262" height="346" alt="IMG-20260301-WA0022" src="https://github.com/user-attachments/assets/9453fed5-215a-4cfe-97c8-ad628609fc95" />
 
 Legajo: 222.354-5
 
